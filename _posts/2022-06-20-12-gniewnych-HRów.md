@@ -1,7 +1,7 @@
 ---
 title: "12 gniewnych HRów (i jeden najgniewniejszy prawnik)"
 classes: wide
-excerpt: ""
+excerpt: "Jak ja nie lubię poniedziałków, ale czy jest ktokolwiek kto lubi? Całą noc przewracałam się z boku na bok."
 ---
 Jak ja nie lubię poniedziałków, ale czy jest ktokolwiek kto lubi? Całą noc przewracałam się z boku na bok. Z podekscytowania tym, że ponownie zobaczę nasz dwunastoosobowy dział HR i z obaw przed tym co mnie dzisiaj czeka.. Znowu powrót do sterty papierów, ogromu segregatorów, bałaganu w folderach i szefa, któremu wiecznie trzeba przypominać o tym żeby podpisał dokumenty.. Po przyjściu do biura, od razu się pojawił – ubrany w dopasowany garnitur i z uśmiechem jeszcze bardziej skrojonym na miarę - Marceli Przedsiębiorczy, nasz CEO.
 {: style="text-align: justify;"}
@@ -25,4 +25,5 @@ Do każdego przekazanego pliku dodana była notka, a przy jego otworzeniu widać
 {: style="text-align: justify;"}
 
 Praca szła sprawnie dopóki nie przypomniałam sobie, że sporo się ostatnio zmieniło w prawie pracy. Nowe łady i inne układy, warto byłoby to skonsultować z naszym prawnikiem. Na samą myśl, przeszedł mnie nieprzyjemny dreszcz... Arkadiusz Prawomocny, postrach wszystkich działów w firmie, zwłaszcza finansowego. Odkryłam jednak, że w sign&GO mogę podzielić się umową za jednym kliknięciem. Kliknęłam Share, krótka notka dla Prawomocnego i z głowy. Uff jak dobrze, że nie będę musiała z nim mailować albo co gorsza dzwonić lub (o zgrozo!) spotkać się twarzą w twarz.
-Może jednak dzięki sign&GO nie tylko Arkadiusz ale i te poniedziałki nie będą mi już takie straszne?😉{: style="text-align: justify;"}
+Może jednak dzięki sign&GO nie tylko Arkadiusz ale i te poniedziałki nie będą mi już takie straszne?😉
+{: style="text-align: justify;"}
