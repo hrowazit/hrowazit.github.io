@@ -1,7 +1,7 @@
 ---
-title: "Przypisz dalej? Czas na Przypisanie?"
+title: "Przypisz dalej"
 classes: wide
-excerpt: "Środa – dzień, którego zawsze potem szkoda. Tak przynajmniej mawiała moja babcia Dzidka. Czy dzisiejsza też taka będzie? Dzień na stracenie?"
+excerpt: "Weekend zbliża się wielkimi krokami. Zobaczymy czym jeszcze mnie zaskoczy ten tydzień bo coś ostatnio wiele pozytywnych niespodzianek dzięki temu nowemu narzędziu."
 ---
 Weekend zbliża się wielkimi krokami. Zobaczymy czym jeszcze mnie zaskoczy ten tydzień bo coś ostatnio wiele pozytywnych niespodzianek dzięki temu nowemu narzędziu.
 {: style="text-align: justify;"}

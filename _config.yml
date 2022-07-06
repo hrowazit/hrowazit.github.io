@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pl-PL"
-title                    : "Hrowazit"
+title                    : # "Hrowazit"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joanna Wygodna"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Joanna Wygodna"
-  avatar           : "/assets/images/bio-photo.jfif"
+  avatar           : "/assets/images/bio-photo.PNG"
   bio              : "Z przymróżeniem oka, opowiadam o pracy w HR i jak ją łączę z macierzyństwem. “A job is not just a job.  It’s who you are.” – Remy, Repo Men, 2010."
   location         : "Kraków"
   email            :
